@@ -1,3 +1,3 @@
 # Projet-final-Viau
 
-Fichier contenant le code dansun fichier .py
+Fichier contenant le code dans un fichier .py
